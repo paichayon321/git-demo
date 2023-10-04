@@ -12,4 +12,9 @@ git checkout dev
 # Create branch feature from dev
 git branch feature/test
 
+# Check out feature branch
+git checkout feature/test
+
+# Update code on feature branch after update finish
+git push
 
