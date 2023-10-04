@@ -41,6 +41,7 @@ git push
 ```
 git checkout dev 
 git merge feature/test
+git push
 ```
 
 # Merge dev to main
