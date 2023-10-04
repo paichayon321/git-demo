@@ -18,3 +18,7 @@ git checkout feature/test
 # Update code on feature branch after update finish
 git push
 
+# Merge feature to dev
+git checkout dev 
+git merge feature/test
+
