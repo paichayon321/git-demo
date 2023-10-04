@@ -1,4 +1,15 @@
 # Git Demo How to use git command
-This is dev --> to Feature 
+
+# Clone Initial code
+git clone xxxx.git
+
+# Create new branch (dev) if not exist
+git branch dev
+
+# Checkout dev branch
+git checkout dev
+
+# Create branch feature from dev
+git branch feature/test
 
 
